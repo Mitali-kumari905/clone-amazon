@@ -27,7 +27,7 @@ body{
     width: 100px;
 }
 .logo{
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -94,7 +94,7 @@ body{
 .lang-icon{
     height: px;
     width: 24px;
-    background-image: url("/images/united-states.jpg");
+    background-image: url("images/united-states.jpg");
     background-size: cover;
     margin-right: 2px;
 }
@@ -173,7 +173,7 @@ span{
 
 /* hero section image */
 .hero-section{
-    background-image: url("/images/hero-section-image.jpg");
+    background-image: url("images/hero-section-image.jpg");
     background-size: cover;
     min-height: 0px;
     height: 600px;
